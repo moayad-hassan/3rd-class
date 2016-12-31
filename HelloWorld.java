@@ -25,19 +25,15 @@ public class HelloWorld {
 
 
         System.out.println("Hello, World");
+		System.out.println("Hello, Java");
 
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 
-
-         System.out.println("Hello, java");
+        System.out.println("Hello, java");
 
 		System.out.println("Teacher");
-
-System.out.println("afraa");
-   
-System.out.println("I love Moutaman"); }
+	}
 
 
 }
