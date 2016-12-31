@@ -25,19 +25,7 @@ public class HelloWorld {
 
 
         System.out.println("Hello, World");
-
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-
-
-         System.out.println("Hello, java");
-
-		System.out.println("Teacher");
-
-System.out.println("afraa");
-   
-System.out.println("I love Moutaman"); }
-
+		
+		javax.swing.JOptionPane.showMessageDialog(null , "this new GUI ");
 
 }
