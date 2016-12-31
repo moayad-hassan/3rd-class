@@ -25,7 +25,9 @@ public class HelloWorld {
 
 
         System.out.println("Hello, World");
+		System.out.println("Hello, Java");
 
+<<<<<<< HEAD
         System.out.println("Java");
 
 <<<<<<< HEAD
@@ -36,14 +38,33 @@ System.out.println("wejdan");
 =======
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 Systme.out.println();
+=======
+ System.out.println("Hello, manal");
+
+>>>>>>> cfa3d0438aff3245cb0808790bfdb2889f01e14c
+
+<<<<<<< HEAD
+System.out.println("ggh");
+=======
+>>>>>>> 1e4a60cd2cd003d9bb5e4cc68044c7de64d538c7
 
 
-         System.out.println("Hello, java");
+        System.out.println("Hello, java");
 
 		System.out.println("Teacher");
+<<<<<<< HEAD
+	}
+=======
 
+<<<<<<< HEAD
  }
 >>>>>>> b06a422fd053d909c346ff2a1c76f183ea97728f
+=======
+System.out.println("afraa");
+
+System.out.println("I love Moutaman"); }
+>>>>>>> 1e4a60cd2cd003d9bb5e4cc68044c7de64d538c7
+>>>>>>> cfa3d0438aff3245cb0808790bfdb2889f01e14c
 
 
 }
