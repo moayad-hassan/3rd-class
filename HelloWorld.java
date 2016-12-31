@@ -21,40 +21,5 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
-
-
-System.out.print("");
->>>>>>> cfa3d0438aff3245cb0808790bfdb2889f01e14c
->>>>>>> 5c8309c03270838c34cba2b9fd2a3e64845ec340
->>>>>>> d60908ae46d24e81adcc743a338df8efcfea5f85
-
-<<<<<<< HEAD
-System.out.println("ggh");
-=======
->>>>>>> 1e4a60cd2cd003d9bb5e4cc68044c7de64d538c7
-
->>>>>>> 5c8309c03270838c34cba2b9fd2a3e64845ec340
-
-        System.out.println("Hello, java");
-
-		System.out.println("Teacher");
-<<<<<<< HEAD
-	}
-=======
-<<<<<<< HEAD
-	}
-=======
-
-<<<<<<< HEAD
- }
->>>>>>> b06a422fd053d909c346ff2a1c76f183ea97728f
-=======
-System.out.println("afraa");
-
-System.out.println("I love Moutaman"); }
->>>>>>> 1e4a60cd2cd003d9bb5e4cc68044c7de64d538c7
->>>>>>> cfa3d0438aff3245cb0808790bfdb2889f01e14c
-
->>>>>>> 5c8309c03270838c34cba2b9fd2a3e64845ec340
-
+        System.out.println("Hello, world");
 }
