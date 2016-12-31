@@ -29,6 +29,9 @@ public class HelloWorld {
 		System.out.println("Teacher");
 System.out.println("afraa");
 System.out.println("buga");
+System.out.println("sust is hell");
+
+
     }
 
 }
