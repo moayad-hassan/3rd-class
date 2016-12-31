@@ -26,18 +26,12 @@ public class HelloWorld {
 
         System.out.println("Hello, World");
 
+        System.out.println("Java");
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+System.out.println("Welcome :)");
+System.out.println("wejdan");
 
-
-
-         System.out.println("Hello, java");
-
-		System.out.println("Teacher");
-
-System.out.println("afraa");
-   
-System.out.println("I love Moutaman"); }
+}
 
 
 }
