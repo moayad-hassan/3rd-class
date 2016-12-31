@@ -27,14 +27,26 @@ public class HelloWorld {
         System.out.println("Hello, World");
 		System.out.println("Hello, Java");
 
+ System.out.println("Hello, manal");
 
+
+<<<<<<< HEAD
 System.out.println("ggh");
+=======
+>>>>>>> 1e4a60cd2cd003d9bb5e4cc68044c7de64d538c7
 
 
         System.out.println("Hello, java");
 
 		System.out.println("Teacher");
+<<<<<<< HEAD
 	}
+=======
+
+System.out.println("afraa");
+
+System.out.println("I love Moutaman"); }
+>>>>>>> 1e4a60cd2cd003d9bb5e4cc68044c7de64d538c7
 
 
 }
