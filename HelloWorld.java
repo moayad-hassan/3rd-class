@@ -24,8 +24,13 @@ public class HelloWorld {
 
 
 
-        System.out.println("Hello, World");
 		
 		javax.swing.JOptionPane.showMessageDialog(null , "this new GUI ");
+
+
+         System.out.println("Hello, java");
+
+		System.out.println("Teacher");
+	}
 
 }
