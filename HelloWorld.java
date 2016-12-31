@@ -23,10 +23,10 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
 
 
-
-        System.out.println("Hello, World");
-		System.out.println("Hello, Java");
-
+System.out.print("");
+>>>>>>> cfa3d0438aff3245cb0808790bfdb2889f01e14c
+>>>>>>> 5c8309c03270838c34cba2b9fd2a3e64845ec340
+>>>>>>> d60908ae46d24e81adcc743a338df8efcfea5f85
 
 <<<<<<< HEAD
 System.out.println("ggh");
@@ -41,6 +41,9 @@ System.out.println("ggh");
 <<<<<<< HEAD
 	}
 =======
+<<<<<<< HEAD
+	}
+=======
 
 <<<<<<< HEAD
  }
@@ -52,5 +55,6 @@ System.out.println("I love Moutaman"); }
 >>>>>>> 1e4a60cd2cd003d9bb5e4cc68044c7de64d538c7
 >>>>>>> cfa3d0438aff3245cb0808790bfdb2889f01e14c
 
+>>>>>>> 5c8309c03270838c34cba2b9fd2a3e64845ec340
 
 }
