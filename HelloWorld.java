@@ -28,10 +28,22 @@ public class HelloWorld {
 
         System.out.println("Java");
 
+<<<<<<< HEAD
 System.out.println("Welcome :)");
 System.out.println("wejdan");
 
 }
+=======
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Systme.out.println();
+
+
+         System.out.println("Hello, java");
+
+		System.out.println("Teacher");
+
+ }
+>>>>>>> b06a422fd053d909c346ff2a1c76f183ea97728f
 
 
 }
